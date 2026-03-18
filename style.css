@@ -1,5 +1,8 @@
-git remote add origin https://github.com/kamilly-gr/consumindo-api.git
-
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .cabecario{
     background-color: rgb(0, 0, 134);
     width:100%;
